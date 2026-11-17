@@ -1,10 +1,13 @@
 # Hi, I'm Adetayo.
 
-I'm a Software Engineer interested in backend infrastructure, distributed systems, applied AI and developer tooling.
+I'm a Software Engineer with six years of experience building software across fintech, payments and developer tools.
 
-I build software with an emphasis on reliability, correctness, maintainability and developer experience. My interests span application development, system architecture and the underlying computer science that makes software work at scale.
+My professional experience spans frontend engineering, backend services and product development. I've built payment gateways, merchant reconciliation systems, savings products, event-driven services and business applications.
 
-Much of my professional work lives in private repositories under confidentiality agreements. My public repositories contain independent projects, technical experiments and open-source work.
+I build software with an emphasis on reliability, correctness, maintainability and developer experience.I'm interested in distributed systems, applied AI, computer science fundamentals and the engineering decisions behind reliable software.
+
+Much of my professional work lives in private repositories under confidentiality agreements. My public repositories contain independent projects, open-source work and technical explorations.
+
 
 ## Selected projects
 
@@ -26,13 +29,29 @@ Much of my professional work lives in private repositories under confidentiality
 
 ## Technologies
 
-**Languages:** TypeScript, JavaScript, Go, Python, SQL
+**Languages:** TypeScript, JavaScript, Go, Java, SQL
 
-**Backend:** Node.js, NestJS, Express, REST APIs, gRPC
+**Backend:** Node.js, NestJS, Express, REST APIs, gRPC, Spring Boot, 
 
-**Frontend:** React, Next.js, Tailwind CSS
+**Frontend:** React, Next.js, Astro, Tanstack, Tailwind CSS
+
+**Testing**: Jest, Vitest, React Testing Library, integration testing
 
 **Data and infrastructure:** PostgreSQL, Redis, Docker, BullMQ, GitHub Actions
+
+**Exploring**: Go, Java, Python, systems programming
+
+
+## Technical writing
+
+I write about software engineering, computer science fundamentals and the internals of the tools we use.
+
+- How Docker Works: Container internals, containerd, runc and OCI specifications.
+
+- Java Collections from Scratch: ArrayList implementation, memory behaviour, equality and hashing.
+
+Read more on [unkletayo.dev](https://unkletayo.dev).
+
 
 ## Currently exploring
 
