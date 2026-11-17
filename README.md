@@ -1,4 +1,4 @@
-# Hi, I'm Tayo.
+# Hi, I'm Adetayo.
 
 I'm a Software Engineer interested in backend infrastructure, distributed systems, applied AI and developer tooling.
 
