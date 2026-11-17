@@ -44,4 +44,5 @@ Much of my professional work lives in private repositories under confidentiality
 ## Connect
 
 - Portfolio: [unkletayo.dev](https://unkletayo.dev)
+- LinkedIn: [Adetayo Akinsanya](https://linkedin.com/in/adetayo-akinsanya)
 - GitHub: [@unkletayo](https://github.com/unkletayo)
